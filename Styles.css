@@ -1,0 +1,127 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.5em !important;
+	background: none !important;
+	padding: 1 !important;
+}
+	<link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='freeware-style-css'  href='wp-content/themes/freeware/style.css' type='text/css' media='all' />
+<style id='freeware-style-inline-css' type='text/css'>
+	/* link and Button ________________________ */
+	a,
+	.main-navigation ul li:hover > a,
+	.main-navigation ul li.current-menu-item > a, 
+	.main-navigation ul li.current_page_item > a, 
+	.main-navigation ul li.current-menu-ancestor > a,
+	.posts-navigation .nav-links .nav-previous,
+	.posts-navigation .nav-links .nav-previous a,
+	.posts-navigation .nav-links .nav-next,
+	.posts-navigation .nav-links .nav-next a,
+	.post-navigation .nav-links .nav-previous,
+	.post-navigation .nav-links .nav-previous a,
+	.post-navigation .nav-links .nav-next,
+	.post-navigation .nav-links .nav-next a,
+	.pagination .nav-links .page-numbers.current,
+	.pagination .nav-links .page-numbers:hover,
+	a.more-link,
+	blockquote:before,
+	.has-header-image .main-navigation ul li:hover > a,
+	.has-header-image .main-navigation ul li.current-menu-item > a, 
+	.has-header-image .main-navigation ul li.current_page_item > a, 
+	.has-header-image .main-navigation ul li.current-menu-ancestor > a {
+		color: #ff5561;
+	}
+	button,
+	input[type="button"],
+	input[type="reset"],
+	input[type="submit"],
+	.main-navigation ul.sub-menu,
+	.main-navigation ul.children,
+	.search-container .search-submit,
+	.menu-social-links-container ul > li a:before,
+	.top-header .social-links-menu li a:hover,
+	.entry-footer .entry-meta span:before,
+	.no-border-bg #secondary.widget-design .widget_text,
+	#secondary.widget-design .widget_text,
+	#secondary.sidebar-custom-design.widget-design .widget_text,
+	#secondary.sidebar-custom-design .widget-title,
+	#secondary .widget-title:after,
+	#colophon .widget-title:after,
+	.posts-holder .post.sticky:before,
+	.sticky-name,
+	.entry-footer .entry-meta span:before,
+	.slide-text-content .tag-links a,
+	.back-to-top,
+	#bbpress-forums #bbp-search-form #bbp_search_submit {
+
+	}
+	@media only screen and (max-width: 766px) {
+	    .main-navigation ul>li:hover > .dropdown-toggle,
+	    .main-navigation ul>li.current-menu-item .dropdown-toggle,
+	    .main-navigation ul>li.current-menu-ancestor .dropdown-toggle {
+	        background-color: #ff5561;
+	    }
+	    .main-navigation ul li:hover>a,
+		.main-navigation ul li.current-menu-item>a,
+		.main-navigation ul li.current_page_item>a,
+		.main-navigation ul li.current-menu-ancestor>a,
+		.has-top-bg-image .main-navigation ul li:hover > a, 
+		.has-top-bg-image .main-navigation ul li.current-menu-item > a, 
+		.has-top-bg-image .main-navigation ul li.current_page_item > a, 
+		.has-top-bg-image .main-navigation ul li.current-menu-ancestor > a  {
+			color: #ff5561;
+		}
+	}
+	.widget_search .search-submit,
+	.post-page-search .search-submit {
+
+	}
+	/* Woocommerce ________________________ */
+	.woocommerce #respond input#submit, 
+	.woocommerce a.button, 
+	.woocommerce button.button, 
+	.woocommerce input.button,
+	.woocommerce #respond input#submit.alt, 
+	.woocommerce a.button.alt, 
+	.woocommerce button.button.alt, 
+	.woocommerce input.button.alt,
+	.woocommerce span.onsale {
+		background-color: #ff2861;
+	}
+	.woocommerce div.product p.price, 
+	.woocommerce div.product span.price,
+	.woocommerce ul.products li.product .price {
+		color: #ff2861;
+	}
+</style>
+
+<style type="text/css">
+					.site-title a,
+			.site-description,
+			.has-header-image .site-title a,
+			.has-header-image .site-description,
+			.has-top-bg-image .site-title a,
+			.has-top-bg-image .site-description {
+				position: absolute;
+				clip: rect(1px, 1px, 1px, 1px);
+			}
+id="custom-background-css">
+body.custom-background { background-color: #d6f6ff; }
+</style>
+	<link rel="icon" href="wp-content/uploads/2019/04/cropped-tcet-logo-9-32x32.png" sizes="32x32" />
+<link rel="icon" href="wp-content/uploads/2019/04/cropped-tcet-logo-9-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="wp-content/uploads/2019/04/cropped-tcet-logo-9-180x180.png" />
+<meta name="msapplication-TileImage" content="http://icicn.multiconw.co.in/wp-content/uploads/2019/04/cropped-tcet-logo-9-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 47%;
+}
